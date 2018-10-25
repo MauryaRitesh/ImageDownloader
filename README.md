@@ -23,6 +23,7 @@ Finally, type the following in your CMD or Terminal:
     python image_downloader.py -n 100 -s "Red Roses" -d "G:\__Main__\Pictures"
     
 Here, change the following as per your needs:
+
 **-n:**
     Number of Images to be downloaded.
    
